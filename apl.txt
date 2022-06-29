@@ -1,0 +1,32 @@
+←
+assign
+
++
+conjugate, plus
+
+-
+negate, minus
+
+×
+direction, times
+
+÷
+reciprocal, divide
+
+*
+exponential, power
+
+⍟
+natural logarithm, logarithm
+
+⌹
+matrix inverse, matrix divide
+
+○
+pi times, circular
+
+!
+factorial, binomial
+
+?
+roll, deal
