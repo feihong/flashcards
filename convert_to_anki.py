@@ -2,17 +2,16 @@
 Convert all .txt files to a format accepted by Anki
 """
 
+import re
 from pathlib import Path
 
 def get_cards(txt_file: Path):
-  with txt_file.open('r') as fp:
-    while True:
-        front = fp.readline().strip()
-        back = fp.readline().strip()
-        fp.readline() # skip a line
-        if not front or not back:
-          break
-        yield (front, back)
+  text = txt_file.read_text()
+  chunks = re.split(r'\n{2,}', text)
+
+  for chunk in chunks:
+    front, back = chunk.splitlines(1)
+    yield front, back
 
 
 for txt_file in Path('.').glob('*.txt'):
