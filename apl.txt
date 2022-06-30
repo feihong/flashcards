@@ -30,3 +30,48 @@ factorial, binomial
 
 ?
 roll, deal
+
+|
+magnitude, residue
+
+⌈
+ceiling, maximum
+
+⌊
+floor, minimum
+
+⊥
+decode
+
+⊤
+encode
+
+⊣
+same, left
+
+⊢
+same, right
+
+=
+equal
+
+≠
+unique mask, not equal
+
+≤
+less than or equal to
+
+<
+less than
+
+>
+greater than
+
+≥
+greater than or equal to
+
+≡
+depth, match
+
+≢
+tally, not match
