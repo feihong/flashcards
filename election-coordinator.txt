@@ -73,9 +73,6 @@ Form 1, Consolidated Voter's Affidavit
 Should provisional ballots be inserted into the ballot scanner?
 No, they go into Envelope P
 
-If there is a mistake in a voter's registration record, what form should be filled out?
-Form 15, Correction Report
-
 What happens at 6:30 pm on Election Day?
 An election judge must announce that polls close at 7 pm, but anyone already in line will be able to vote
 
@@ -117,3 +114,6 @@ Form 15, Correction Report, found at the bottom of the Form 14 pad
 
 What should you do right after opening the black box containing the e-poll books?
 Take a picture so you understand how to stuff everything back in there at the end of the day
+
+How do you put the e-poll book stand back into the case?
+(placeholder for November 2022 election)
