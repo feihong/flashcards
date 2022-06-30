@@ -75,3 +75,39 @@ depth, match
 
 ≢
 tally, not match
+
+∨
+greatest common divisor/or
+
+∧
+lowest common multiple/and
+
+⍲
+nand
+
+⍱
+nor
+
+↑
+mix, take
+
+↓
+split, drop
+
+⊂
+enclose, partitioned enclose
+
+⊃
+first, pick
+
+⊆
+nest, partition
+
+⌷
+index
+
+⍋
+grade up, dyadic grade up
+
+⍒
+grade down, dyadic grade down
