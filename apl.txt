@@ -162,3 +162,69 @@ reverse first, rotate first
 
 ⍉
 transpose, reorder axes
+
+¨
+Each
+
+⍨
+Constant, Self, Swap
+
+⍣
+Repeat
+
+.
+Outer Product (.∘), Inner Product
+
+∘
+Outer Product (.∘), Curry, Compose
+
+⍤
+Rank, Atop
+
+⍥
+Over
+
+@
+At
+
+⎕
+Quad
+
+⍠
+Variant
+
+⌸
+Index Key, Key
+
+⌺
+Stencil
+
+⌶
+I-Beam
+
+⍎
+Execute
+
+⍕
+Format
+
+⋄
+Statement separator
+
+⍝
+Comment
+
+⍵
+Right argument, Right operand
+
+⍺
+Left argument, Left operand
+
+∇
+Recursion
+
+¯
+Negative
+
+⍬
+Empty numeric vector
