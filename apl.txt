@@ -111,3 +111,54 @@ grade up, dyadic grade up
 
 ⍒
 grade down, dyadic grade down
+
+⍳
+indices, indices of
+
+⍸
+where, interval index
+
+∊
+enlist, member of
+
+⍷
+find
+
+∪
+unique, union
+
+∩
+intersection
+
+~
+not, without
+
+/
+replicate, reduce
+
+\
+expand, scan
+
+⌿
+replicate first, reduce first
+
+⍀
+expand first, scan first
+
+,
+ravel, catenate/laminate
+
+⍪
+table, catenate first/laminate
+
+⍴
+shape, reshape
+
+⌽
+reverse, rotate
+
+⊖
+reverse first, rotate first
+
+⍉
+transpose, reorder axes
