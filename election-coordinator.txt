@@ -101,10 +101,10 @@ What should you do before putting the spindle into Envelope 14E?
 Note and record the application number on the topmost Form 14. This will help you complete Form 80 (Certificate of Results).
 
 What should you do before opening the ballots?
-Count them and record the number. Later, you can compare your count with the numbers on the ballot packing list. This number will also come in handy when you complete Form 80.
+Count them and record the number. Later, you can compare your count with the numbers on the Ballot Packing List. This number will also come in handy when you complete Form 80.
 
 Where can you find Form 15, Correction Report?
-At the bottom of the Form 14 (Applications for Ballot) pad
+At the bottom of the Form 14 (Application for Ballot) pad
 
 Do you use Form 15 (Correction Report) if a voter has a name or address change, but still lives in the precinct?
 No, in that case the voter must fill out Form 14Reg
@@ -112,8 +112,11 @@ No, in that case the voter must fill out Form 14Reg
 What form do you use to document minor corrections to a voter's name or address?
 Form 15, Correction Report, found at the bottom of the Form 14 pad
 
-What should you do right after opening the black box containing the e-poll books?
-Take a picture so you understand how to stuff everything back in there at the end of the day
+At the end of the day, where do Correction Report forms go?
+Place them on top of the Used Application for Ballot spindle
+
+What should you do with the ballots the night before the election?
+After opening the ESC, count and record the number of ballots you find. On the day of the election, you can compare this number with the figures you find in the Ballot Packing List.
 
 How do you put the e-poll book stand back into the case?
 (placeholder for November 2022 election)
