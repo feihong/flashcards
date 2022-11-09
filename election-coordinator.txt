@@ -118,5 +118,33 @@ Place them on top of the Used Application for Ballot spindle
 What should you do with the ballots the night before the election?
 After opening the ESC, count and record the number of ballots you find. On the day of the election, you can compare this number with the figures you find in the Ballot Packing List.
 
-How do you put the e-poll book stand back into the case?
-(placeholder for November 2022 election)
+What must you do before taking the epoll book equipment out of the case?
+Take some photos so you remember how to stuff them back into the case
+
+What if a voter changed their address within the last 30 days?
+As long as they still reside in Illinois, give them Form 1 (Consolidated Voter's Affidavits), check Box #1, and ask them to present two pieces of acceptable identification.
+
+What if a voter changed their address more than 30 days ago within the city of Chicago?
+They can vote without re-registering if you give them Form 1 (Consolidated Voter's Affidavits), check Box #5, and issue them a Federal Offices Only voter card.
+
+When you call the polling place to schedule a time to inspect the voting equipment, whose contact info must you ask for?
+The phone number of the person who will open the doors on the day of the election.
+
+When you have problems with voter card activation, what should you do?
+Try manually rebooting the epoll book, even if it already crashed and rebooted itself. If that fails, contact Election Central.
+
+What's the key to threading the seals through the base of the ballot box?
+Don't try to thread it straight through. Instead, aim slightly upward. For the side and back seals, it helps to kneel inside the ballot box.
+
+Where do voter cards go at the end of the day?
+The black return bag (where epoll books also go)
+
+What's the green document inside the black return bag?
+It's a checklist of the items that must go in the black return bag. For some reason, it lists some things not mentioned in the handbook, such as voter cards.
+
+Which is a better checklist, Form 194EC or the one in Chapter 7 of the handbook (Closing the Polls)?
+The checklist in the handbook is clearer and more detailed
+
+Before sealing the black return bag, transfer case, and ESC, what must you do?
+Record the seal numbers on the Seal Accountability Form.
+
