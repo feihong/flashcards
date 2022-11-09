@@ -10,8 +10,12 @@ def get_cards(txt_file: Path):
   chunks = re.split(r'\n{2,}', text)
 
   for chunk in chunks:
+    chunk = chunk.strip()
+    if chunk == '':
+      continue
+
     front, back = chunk.splitlines(1)
-    yield front, back
+    yield front.strip(), back
 
 
 for txt_file in Path('.').glob('*.txt'):
