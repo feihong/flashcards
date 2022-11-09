@@ -27,7 +27,7 @@ for txt_file in Path('.').glob('*.txt'):
 
   with output_file.open('w') as fp:
     for front, back in get_cards(txt_file):
-      fp.write(f'{front};{back}\n')
+      fp.write(f'{front}\t{back}\n')
       count +=1
 
   print(f'Wrote {count} flashcards to {output_file}')
