@@ -7,11 +7,11 @@ Election coordinator accessibility checklist
 What is the one form that an election coordinator may sign?
 Form 14Reg, the voter registration form
 
-What additional supplies should you bring on election day?
-Fanny pack, box of extra pens, small notepad, bag of cough drops
-
 Where does the letter of authority from a field investigator go?
 Envelope 47E
+
+At the end of the day, where does Investigator Sign-in Sheet, Form 202 go?
+In the black return bag
 
 What time does a Judge of Election announce that the polls are open?
 6:00 am
@@ -22,7 +22,7 @@ The lowered voting booth should be placed in an area with a minimum of how many 
 Campaigning is not allowed within how many feet of the polling place?
 100 ft
 
-After the polls close, what should you do with the ballots removed from the emergency ballot box inside the Election Supply Carrier?
+After the polls close, what should you do with the ballots removed from the auxiliary ballot box inside the Election Supply Carrier?
 Insert them into the ballot scanner
 
 When the morning zero tape prints out, should you remove it?
@@ -34,9 +34,6 @@ Envelope 48E (registration materials)
 If the voter's signature is not on file in the e-poll book, what do you do?
 Ask the voter for the last two digits of their social security number
 
-Where do spoiled ballots go?
-Envelope S
-
 If the ballot scanner display screen reads "clear paper jam", what should you do?
 Gently remove the ballot to clear the message. When the screen says "please insert ballot", instruct the voter to reinsert their ballot.
 
@@ -44,7 +41,7 @@ Where does a provisional ballot go once it is completed?
 Envelope P (never insert provisional ballots into the ballot scanner)
 
 If the voter needs to change their name or address, what form should they fill out?
-Form 14Reg
+If it's a major change, Form 14Reg. For minor corrections, Form 15.
 
 Where can you find the Ballot Packing List?
 Envelope 1
@@ -100,23 +97,11 @@ Envelope 14E, which goes into the Black Return Bag
 What should you do before putting the spindle into Envelope 14E?
 Note and record the application number on the topmost Form 14. This will help you complete Form 80 (Certificate of Results).
 
-What should you do before opening the ballots?
-Count them and record the number. Later, you can compare your count with the numbers on the Ballot Packing List. This number will also come in handy when you complete Form 80.
-
 Where can you find Form 15, Correction Report?
 At the bottom of the Form 14 (Application for Ballot) pad
 
-Do you use Form 15 (Correction Report) if a voter has a name or address change, but still lives in the precinct?
-No, in that case the voter must fill out Form 14Reg
-
-What form do you use to document minor corrections to a voter's name or address?
-Form 15, Correction Report, found at the bottom of the Form 14 pad
-
 At the end of the day, where do Correction Report forms go?
 Place them on top of the Used Application for Ballot spindle
-
-What should you do with the ballots the night before the election?
-After opening the ESC, count and record the number of ballots you find. On the day of the election, you can compare this number with the figures you find in the Ballot Packing List.
 
 What must you do before taking the epoll book equipment out of the case?
 Take some photos so you remember how to stuff them back into the case
@@ -131,7 +116,7 @@ When you call the polling place to schedule a time to inspect the voting equipme
 The phone number of the person who will open the doors on the day of the election.
 
 When you have problems with voter card activation, what should you do?
-Try manually rebooting the epoll book, even if it already crashed and rebooted itself. If that fails, contact Election Central.
+Try manually power cycling the epoll book, even if it already crashed and rebooted itself. If that fails, contact Equipment & Supplies.
 
 What's the key to threading the seals through the base of the ballot box?
 Don't try to thread it straight through. Instead, aim slightly upward. For the side and back seals, it helps to kneel inside the ballot box.
@@ -140,7 +125,7 @@ Where do voter cards go at the end of the day?
 The black return bag (where epoll books also go)
 
 Before sealing the black return bag, transfer case, and ESC, what must you do?
-Record the seal numbers on the Seal Accountability Form.
+Record the seal numbers on the Seal Accountability Form and place the Seal Accountability Form inside the black return bag
 
 At 6:30 pm, what should you start counting?
 The number of unused ballots. You will need this number to help you fill out Form 80.
@@ -149,4 +134,10 @@ How should you edit Form 149EC?
 In the checklists, add the missing items, e.g. voter cards go in black return bag
 
 What should you do if the entrance to the polling place changed from the previous election?
-Put up signs directing voters to the correct entrance
+Put up signs on the former entrance(s) directing voters to the current entrance
+
+When you inspect the ESC on the day before the election, why you should open the doors slowly?
+It gives you a better chance of catching equipment that would otherwise fall out and onto the floor
+
+What is the orange seal for?
+To seal the auxiliary ballot box inside the ESC
