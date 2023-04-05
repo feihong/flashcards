@@ -139,14 +139,14 @@ Don't try to thread it straight through. Instead, aim slightly upward. For the s
 Where do voter cards go at the end of the day?
 The black return bag (where epoll books also go)
 
-What's the green document inside the black return bag?
-It's a checklist of the items that must go in the black return bag. For some reason, it lists some things not mentioned in the handbook, such as voter cards.
-
-Which is a better checklist, Form 194EC or the one in Chapter 7 of the handbook (Closing the Polls)?
-The checklist in the handbook is clearer and more detailed
-
 Before sealing the black return bag, transfer case, and ESC, what must you do?
 Record the seal numbers on the Seal Accountability Form.
 
 At 6:30 pm, what should you start counting?
 The number of unused ballots. You will need this number to help you fill out Form 80.
+
+How should you edit Form 149EC?
+In the checklists, add the missing items, e.g. voter cards go in black return bag
+
+What should you do if the entrance to the polling place changed from the previous election?
+Put up signs directing voters to the correct entrance
